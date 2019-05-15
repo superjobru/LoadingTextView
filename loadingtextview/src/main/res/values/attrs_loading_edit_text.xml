@@ -1,0 +1,11 @@
+<resources>
+	<declare-styleable name="LoadingTextView">
+
+		<attr name="android:drawableRight" format="reference" />
+		<attr name="android:drawableEnd" format="reference" />
+		<attr name="android:drawableStart" format="reference" />
+		<attr name="customLoadAnimation" format="reference" />
+		<attr name="resultText" format="string|reference" />
+		<attr name="timeout" format="reference|integer" />
+	</declare-styleable>
+</resources>
