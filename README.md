@@ -1,11 +1,11 @@
-# LoadingEditText
+# LoadingTextView
 [![API](https://img.shields.io/badge/API-17%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=17)
 ![](https://github.com/superjobru/LoadingEditText/raw/master/images/LocationEdiText.png)
 
 
 The library is an advanced edit text with a rigth drawable that allows you to show the progress bar when you click on the right icon. For example, you can use component for geolocation request.
 
-Component extended **EditText** and using **animated vector** drawable for progress animation. Used right icon and animation are fully customizable.
+Component extended **TextView** and using **animated vector** drawable for progress animation. Used right icon and animation are fully customizable.
 
 # Usage
 
